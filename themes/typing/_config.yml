@@ -1,0 +1,36 @@
+# Lang
+language: en
+
+# Header
+menu:
+  /: /
+  Blog: /blog
+  Hakkımda: /ben
+rss: /atom.xml
+
+# Content
+fancybox: true
+
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+# Profile
+nickname: Ayhan Sipahi
+description: Front End Developer
+links:
+  Blog: https://ayhansipahi.net
+  GitHub: https://github.com/ayhansipahi
+  Instagram: http://instagram.com/ayhansipahi
+  Twitter : http://twitter.com/ayhansipahinet
+
+
+# Info
+archive_footer_content: test
+post_footer_content: test
