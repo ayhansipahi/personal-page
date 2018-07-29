@@ -3,19 +3,19 @@ language: en
 
 # Header
 menu:
-  /: /
+  Ev: /
   Blog: /blog
-  Hakkımda: /ben
-rss: /atom.xml
+  Kimdir?: /ayhansipahi
+# rss:
 
 # Content
-fancybox: true
+fancybox: false
 
 
 # Miscellaneous
 google_analytics:
 favicon: /favicon.ico
-twitter:
+twitter: http://twitter.com/ayhansipahi.net
 google_plus:
 fb_admins:
 fb_app_id:
@@ -23,11 +23,10 @@ fb_app_id:
 
 # Profile
 nickname: Ayhan Sipahi
-description: Front End Developer
+description: _Yazılım Geliştirici_
 links:
-  Blog: https://ayhansipahi.net
+  Blog: /blog
   GitHub: https://github.com/ayhansipahi
-  Instagram: http://instagram.com/ayhansipahi
   Twitter : http://twitter.com/ayhansipahinet
 
 

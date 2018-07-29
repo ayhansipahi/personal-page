@@ -1,11 +1,11 @@
-categories: Kategoriler
+categories: Kategori
 search: Ara
-tags: Etiketler
+tags: Etiket
 tagcloud: Etiket Bulutu
 tweets: Tweetler
 prev: Önceki
 next: Sonraki
-comment: Yorumlar
+comment: Yorum
 archive_a: Arşiv
 archive_b: "%s Arşivi"
 page: Sayfa %d
@@ -13,7 +13,8 @@ recent_posts: Son Yazılar
 newer: Daha Yeni
 older: Daha Eski
 share: Paylaş
-rss_feed: RSS Beslemesi
+powered_by: Sağolsun
+rss_feed: RSS
 category: Kategori
 tag: Etiket
-date_published: Yayım Tarihi
+date_published: Yayın Tarihi
