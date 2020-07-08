@@ -7,5 +7,5 @@ Ben Ayhan Sipahi,
 İzmirli bir yazılım geliştiriciyim.
 
 Ana dil olarak JavaScript kullanıyorum. Node.js uygulamaları ve JavaScript frontend uygulamaları geliştirmekteyim.
-TypeScript, AngularJs, Vue.js, Express.js ağırlıklı olarak kullanmış olduğum teknolojiler.
+TypeScript, React, Vue.js, Express.js kullanmış olduğum teknolojiler arasında yer alıyor.
 
