@@ -3,7 +3,7 @@ language: tr
 
 # Header
 menu:
-  Ev: /
+  /: /
   Blog: /blog
   Kimdir?: /ayhansipahi
 # rss:
