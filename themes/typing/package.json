@@ -11,11 +11,6 @@
     "theme",
     "typing"
   ],
-  "author": {
-    "name": "geekplux",
-    "email": "geekplux@gmail.com",
-    "url": "github.com/geekplux"
-  },
   "license": "MIT",
   "dependencies": {
     "normalize.css": "^4.2.0",
