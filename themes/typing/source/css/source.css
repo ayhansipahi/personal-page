@@ -102,7 +102,7 @@ em {
   text-align: center;
   width: 100%;
   font-size: 80%;
-  color: $grey-light;
+  color: $grey;
   /* opacity: .6; */
   li {
     display: inline-block;
