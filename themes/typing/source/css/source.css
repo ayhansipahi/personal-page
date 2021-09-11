@@ -5,9 +5,9 @@
 $black-normal: #333;
 $black-bold: $111;
 $black-light: #222;
-$grey: #888;
-$grey-bold: #666;
-$grey-light: #aaa;
+$grey: #666;
+$grey-bold: #555;
+$grey-light: #666;
 $scooter: #22C5E5;
 
 $content-width: 60%;
@@ -28,7 +28,7 @@ $content-width: 60%;
 @define-extend nav-link-base {
   margin-right: 10px;
   color: $grey-bold;
-  padding-bottom: 5px;
+  padding: 10px 10px 15px;
   display: inline-block;
 }
 
@@ -283,11 +283,6 @@ em {
 
   .article-title {
     font-size: 2.5em;
-  }
-
-  a.fancybox,
-  a.fancybox-item {
-    border: 0;
   }
 
   .caption {

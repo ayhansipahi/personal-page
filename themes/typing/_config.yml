@@ -14,7 +14,7 @@ fancybox: false
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.ico
+favicon: 
 twitter: http://twitter.com/ayhansipahi.net
 google_plus:
 fb_admins:
