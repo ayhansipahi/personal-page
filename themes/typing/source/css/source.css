@@ -2,12 +2,12 @@
 @import 'normalize.css';
 
 
-$black-normal: #505050;
+$black-normal: #333;
 $black-bold: $111;
 $black-light: #222;
-$grey: #aeb4b9;
-$grey-bold: #777;
-$grey-light: #cacdd0;
+$grey: #888;
+$grey-bold: #666;
+$grey-light: #aaa;
 $scooter: #22C5E5;
 
 $content-width: 60%;
