@@ -1,3 +1,3 @@
 # Kişisel Blog
 
-blog yazılarım ve çeşitli bilgilerin yer aolduğı site.
+Blog yazılarım ve çeşitli bilgilerin yer aldığı site.

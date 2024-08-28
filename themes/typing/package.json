@@ -13,13 +13,13 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "normalize.css": "^4.2.0",
+    "normalize.css": "^8.0.1",
     "typo.css": "^2.1.2"
   },
   "devDependencies": {
-    "cssnano": "^3.7.3",
-    "postcss-cli": "^2.5.2",
-    "postcss-import": "^8.1.2",
-    "precss": "^1.4.0"
+    "cssnano": "^7.0.5",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^8.2.0",
+    "precss": "^4.0.0"
   }
 }
